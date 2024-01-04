@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "761031030193",
+    "project_id": "gestiondechet237-67957",
+    "storage_bucket": "gestiondechet237-67957.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:761031030193:android:39343c1e8486481b98b990",
+        "android_client_info": {
+          "package_name": "com.example.zero_dechet_237"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "761031030193-8np6fvje1ed29n219trcql88e0ahj84r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqAS6UW2PRHbQJ_ms5u67klFC6YXj6xX4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "761031030193-8np6fvje1ed29n219trcql88e0ahj84r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
